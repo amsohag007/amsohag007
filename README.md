@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **NodeJs,NestJs,ExpressJS**
 
-- 📫 How to reach me **amsohag007@gamil.com**
+- 📫 How to reach me **amsohag007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
