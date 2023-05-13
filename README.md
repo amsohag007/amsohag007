@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm AbuMusa</h1>
 <h3 align="center">A passionate software engineer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **BitDeposit**
+- 🔭 I’m currently working at **Netmark**
 
-- 💬 Ask me about **NodeJs,NestJs,ExpressJS**
+- 💬 Ask me about **NodeJs, NestJs, ExpressJS, Prisma, Docker, AWS**
 
 - 📫 How to reach me **amsohag007@gmail.com**
 
