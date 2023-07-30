@@ -1,14 +1,17 @@
 <h1 align="center">Hi 👋, I'm AbuMusa</h1>
 <h3 align="center">A passionate software engineer from Bangladesh</h3>
 
-- 🔭 I’m currently working at **Netmark**
+- 🔭 I’m currently working at **Netmark** **(actively looking for new opportunity)**
 
-- 💬 Ask me about **NodeJs, NestJs, ExpressJS, Prisma, Docker, AWS**
+- 💬 Ask me about **JavaScript, TypeScript, ReactJS, NextJS, NodeJS, NestJS, ExpressJS, Prisma, TypeORM, MongoDB, MySQL, PostgreSQL, Docker, AWS**
 
 - 📫 How to reach me **amsohag007@gmail.com**
+- 📫 My Upwork profile https://www.upwork.com/freelancers/~014c9e96d68971f40c
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
+<a href="https://www.upwork.com/freelancers/~014c9e96d68971f40c" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dupwork&psig=AOvVaw29SKYHt3eXwVgs9e3W7EoI&ust=1690822816119000&source=images&cd=vfe&opi=89978449&ved=0CBIQjhxqFwoTCJDk6_zztoADFQAAAAAdAAAAABAE" alt="Md. Abu Musa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abumusa007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abumusa007" height="30" width="40" /></a>
 <a href="https://fb.com/amsohag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amsohag" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/amsohag007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amsohag007" height="30" width="40" /></a>
