@@ -6,11 +6,13 @@
 - 💬 Ask me about **JavaScript, TypeScript, ReactJS, NextJS, NodeJS, NestJS, ExpressJS, Prisma, TypeORM, MongoDB, MySQL, PostgreSQL, Docker, AWS**
 
 - 📫 How to reach me **amsohag007@gmail.com**
+- 🌐 My portfolio **<a href="https://abumusa-portfolio.web.app/" target="blank">AbuMusa</a>**
+- 👨‍💻 Hire me on <a href="https://www.upwork.com/freelancers/~014c9e96d68971f40c" target="blank">Upwork</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://www.upwork.com/freelancers/~014c9e96d68971f40c" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/257/806/png-transparent-upwork-freelancer-android-android-text-trademark-rectangle-thumbnail.png" alt="Upwork" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/~014c9e96d68971f40c" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg" alt="Upwork" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abumusa007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abumusa007" height="30" width="40" /></a>
 <a href="https://fb.com/amsohag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amsohag" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/amsohag007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amsohag007" height="30" width="40" /></a>
