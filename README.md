@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Netmark** **(actively looking for new opportunity)**
 
-- 💬 Ask me about **JavaScript, TypeScript, ReactJS, NextJS, NodeJS, NestJS, ExpressJS, Prisma, TypeORM, MongoDB, MySQL, PostgreSQL, Docker, AWS**
+- 💬 Ask me about **JavaScript, TypeScript, ReactJS, NextJS, NodeJS, NestJS, ExpressJS, Prisma, TypeORM, MongoDB, MySQL, PostgreSQL, RabbitMQ, Redis Docker, AWS**
 
 - 📫 How to reach me **amsohag007@gmail.com**
 - 🌐 My portfolio **<a href="https://abumusa-portfolio.web.app/" target="blank">AbuMusa</a>**
