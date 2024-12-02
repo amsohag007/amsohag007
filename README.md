@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm AbuMusa</h1>
 <h3 align="center">A passionate software engineer from Bangladesh</h3>
 
-- 🔭 I’m currently working at **Netmark** **(actively looking for new opportunity)**
+- 🔭 I’m currently working at **EATECH** **(actively looking for new opportunity)**
 
-- 💬 Ask me about **JavaScript, TypeScript, ReactJS, NextJS, NodeJS, NestJS, ExpressJS, Prisma, TypeORM, MongoDB, MySQL, PostgreSQL, RabbitMQ, Redis, Docker, AWS**
+- 💬 Ask me about **JavaScript, TypeScript, ReactJS, NextJS,Remix, NodeJS, NestJS, ExpressJS, Prisma, TypeORM, MongoDB, MySQL, PostgreSQL, RabbitMQ, Redis, Docker, AWS**
 
 - 📫 How to reach me **amsohag007@gmail.com**
 - 🌐 My portfolio **<a href="https://abumusa-portfolio.web.app/" target="blank">AbuMusa</a>**
